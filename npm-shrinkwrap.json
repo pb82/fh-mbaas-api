@@ -1,6 +1,6 @@
 {
   "name": "fh-mbaas-api",
-  "version": "7.0.16",
+  "version": "7.0.17",
   "dependencies": {
     "async": {
       "version": "2.1.5",
@@ -27,9 +27,9 @@
       }
     },
     "fh-db": {
-      "version": "2.0.0",
-      "from": "https://registry.npmjs.org/fh-db/-/fh-db-2.0.0.tgz",
-      "resolved": "https://registry.npmjs.org/fh-db/-/fh-db-2.0.0.tgz",
+      "version": "2.2.0",
+      "from": "http://npm.skunkhenry.com//fh-db/-/fh-db-2.2.0.tgz",
+      "resolved": "http://npm.skunkhenry.com//fh-db/-/fh-db-2.2.0.tgz",
       "dependencies": {
         "adm-zip": {
           "version": "0.4.7",
